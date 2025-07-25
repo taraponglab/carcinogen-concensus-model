@@ -10,7 +10,7 @@ Department of Health Sciences, College of Natural Sciences, Can Tho University, 
 
 **Division of Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand. (tarasri@kku.ac.th)
 
-Source codes and dataset is available in this repository.
+Source codes and data set is available in this repository.
 
 + **A publicly accessible web server for AVP and virus-specific prediction is available at: https://carcinogenicity-predictor.streamlit.app**
 
