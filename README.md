@@ -12,7 +12,7 @@ Department of Health Sciences, College of Natural Sciences, Can Tho University, 
 
 Source codes and data set is available in this repository.
 
-+ **A publicly accessible web server for AVP and virus-specific prediction is available at: https://carcinogenicity-predictor.streamlit.app**
++ **A publicly accessible web server for carcinogenicity predictor is available at: https://carcinogenicity-predictor.streamlit.app**
 
   
 #### Package version
