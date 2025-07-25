@@ -1,6 +1,6 @@
 # Consensus Framework for Carcinogenicity Prediction of Possibly Carcinogenic Chemicals from IARC Class 2B and Interpretable Cheminformatics Profilings
 
-![Abstract Graphic](Figure_GraAbs_carcinogen.png)
+![Abstract Graphic](Figure_GraAbs.png)
 
 #### Huynh Anh Duy*, Tarapong Srisongkram** 
 
