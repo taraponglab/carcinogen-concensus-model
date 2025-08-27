@@ -1,6 +1,6 @@
 # Towards Explainable Carcinogenicity Prediction: An Integrated Cheminformatics Approach and Consensus Framework for IARC Class 2B Chemicals
 
-![Abstract Graphic](Figure_GraAbs.png)
+![Abstract Graphic](Figure_GraAbs_carcinogen.png)
 
 #### Huynh Anh Duy*, Tarapong Srisongkram** 
 
