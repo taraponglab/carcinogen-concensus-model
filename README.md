@@ -13,7 +13,7 @@ Department of Health Sciences, College of Natural Sciences, Can Tho University, 
 Source codes and data set is available in this repository.
 
 + **A publicly accessible web server for carcinogenicity predictor is available at: https://carcinogenicity-predictor.streamlit.app**
-
++ **The article has been published in the Journal of Chemical Information and Modeling https://pubs.acs.org/10.1021/acs.jcim.5c01873**
   
 #### Package version
 Rdkit: v.2024.9.4; Scikit-learn: v1.5.2; Tensorflow: v2.17.0; Numpy: v.1.26.4.
